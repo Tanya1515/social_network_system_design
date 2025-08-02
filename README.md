@@ -82,6 +82,7 @@ WRITE
 
 **Post**:
 - postID - 8b
+- userID - 8b
 - location - 10*4b
 - date - 24b
 - description - 100*4b
